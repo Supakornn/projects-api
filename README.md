@@ -32,8 +32,6 @@
 
 # Example
 
-![](https://cdn.discordapp.com/attachments/925063485556150292/955160171577999440/unknown.png)
-
 ![](https://cdn.discordapp.com/attachments/925063485556150292/955160003566792754/unknown.png)
 
 ## How to Install
