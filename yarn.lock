@@ -934,9 +934,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mongodb-connection-string-url@^2.4.1:
   version "2.5.2"
@@ -1138,13 +1138,6 @@ range-parser@~1.2.1:
   resolved "https://registry.npmjs.org/range-parser/-/range-parser-1.2.1.tgz"
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
-rate-limiter@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/rate-limiter/-/rate-limiter-0.2.0.tgz#b9bbb419b376a5dfa5849a8e4a000550d5603d4a"
-  integrity sha1-ubu0GbN2pd+lhJqOSgAFUNVgPUo=
-  dependencies:
-    sprintf ">= 0.1.1"
-
 raw-body@2.4.3:
   version "2.4.3"
   resolved "https://registry.npmjs.org/raw-body/-/raw-body-2.4.3.tgz"
@@ -1302,11 +1295,6 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
-
-"sprintf@>= 0.1.1":
-  version "0.1.5"
-  resolved "https://registry.npmjs.org/sprintf/-/sprintf-0.1.5.tgz"
-  integrity sha1-j4PjmpMXwaUCy324BQ5Rxnn27c8=
 
 "statuses@>= 1.5.0 < 2", statuses@~1.5.0:
   version "1.5.0"
