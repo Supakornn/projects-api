@@ -42,7 +42,7 @@
 - Clone repo
 
 ```
-git clone https://github.com/H3X-T/projects-api/
+git clone https://github.com/H3XxT/projects-api/
 ```
 
 - Install package
